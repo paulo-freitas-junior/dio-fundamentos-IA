@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Formação Fundamentos de Inteligência Artificial 
+## Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+### Extraindo e Organizando Dados de PDF´s para Fine-Tuning em LLMs
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar uma apresentação utilizando o Gamma.app baseado em um prompt onde é solicitado um guia de como extrair dados de arquivos PDF
+utilizando recursos de Large Language Models (LLMs).  No prompt foram solicitados os seguintes passos a serem abordados:
+
+- Desafios de extração baseados em conteúdos dentro do arquivo
+- Diferentes formatos de dados constantes no arquivo
+- Descrição dos tipos de técnicas que podem ser aplicadas para extração de dados constantes no arquivo
+- ETL desses dados ( visando limpeza de dados e normalizações )
+- Organizar os dados extraídos visando um o processo de fine-tuning
+- Informar quais recursos de bibliotecas em Python para execução
+- Quais técnicas de Fine-Tuning a IA Generativa me recomendaria nesse processo
+- E uma consideração final a ser vista
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa - ChatGPT - Pesquisa do processo a ser realizado e solicitação de código em Python para posteriores testes.
+- IA Generativa Gamma.app  - Elaboração da apresentação
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Realizado o cadastro no Gamma.app e elaborado o prompt solicitando a criação da apresentação com no máximo 10 slides.  
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A qualidade da apresentação impressiona, tanto na geração do conteúdo textual que segue um roteiro estruturado bem como  a qualidade visual envolvente:
+https://gamma.app/docs/Extraindo-e-Organizando-Dados-de-PDFs-para-Fine-tuning-em-LLMs-1t5ewfvnif2bedt
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
