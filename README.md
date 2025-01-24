@@ -1,8 +1,6 @@
 # Formação Fundamentos de Inteligência Artificial 
 ## Como Vencer na Era das IAs Generativas
-
-
-### Extraindo e Organizando Dados de PDF´s para Fine-Tuning em LLMs
+### TEMA: Extraindo e Organizando Dados de PDF´s para Fine-Tuning em LLMs
 
 ## 📒 Descrição
 Criar uma apresentação utilizando o Gamma.app baseado em um prompt onde é solicitado um guia de como extrair dados de arquivos PDF
